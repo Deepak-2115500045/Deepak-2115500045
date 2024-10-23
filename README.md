@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepak-2115500045
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning CS(AIML)
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reah me-deepakfauzdar121@gmail.com
 
 <!---
